@@ -20,6 +20,7 @@ Add this line to your project's `Gruntfile.js`:
 
 Create a config file:
 
+````
 {
   "NEWRELIC": {
     "APP_NAME": "Airasoul"
@@ -27,6 +28,7 @@ Create a config file:
   , "LOGGING_LEVEL" : "trace"
   }
 }
+````
 
 ````
 grunt newrelic
