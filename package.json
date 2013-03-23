@@ -1,0 +1,30 @@
+{
+  "name": "grunt-newrelic",
+  "description": "Grunt task which generates a newrelic.js file",
+  "version": "0.1.0",
+  "homepage": "https://github.com/andrewkeig/grunt-newrelic",
+  "author": {
+    "name": "Airasoul",
+    "email": "andrew.keig@gmail.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/andrewkeig/grunt-newrelic.git"
+  },
+  "bugs": {
+    "url": "https://github.com/andrewkeig/grunt-newrelic/issues"
+  },
+  "main": "Gruntfile.js",
+  "engines": {
+    "node": ">= 0.8.0"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "newrelic": "~0.9.19"
+  },
+  "peerDependencies": {
+    "grunt": "~0.4.1",
+    "newrelic": "~0.9.19"
+  },
+  "keywords": ["gruntplugin"]
+}

@@ -1,0 +1,7 @@
+{
+  "NEWRELIC": {
+    "APP_NAME": "Airasoul"
+  , "LICENSE_KEY": "12345"
+  , "LOGGING_LEVEL" : "trace"
+  }
+}
