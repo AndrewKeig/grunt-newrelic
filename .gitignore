@@ -1,5 +1,5 @@
 # node
-node_modules/
+node_modules
 
 # Numerous always-ignore extensions
 *.diff
@@ -8,6 +8,7 @@ node_modules/
 *.log
 *.rej
 *.swo
+*.idea
 *.swp
 *.vi
 *~
