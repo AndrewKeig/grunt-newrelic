@@ -3,7 +3,7 @@
 module.exports = function(grunt) {
   grunt.registerTask("newrelic", "generate a newrelic.js file", function(environment) {
 
-    if (environment == null) environment = "development";
+    if (environment == null) environment = "newrelic";
 
     try {
         var config_path = "config/" + environment + ".json"
