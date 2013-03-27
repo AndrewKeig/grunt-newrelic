@@ -32,7 +32,7 @@ Create a config file:
 
 ````
 grunt newrelic
->> Use default config/package.json
+>> Use default config/development.json
 
 grunt newrelic:development
 >> Use config/development.json
