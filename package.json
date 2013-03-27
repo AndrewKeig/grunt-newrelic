@@ -1,7 +1,7 @@
 {
   "name": "grunt-newrelic",
   "description": "Grunt task which generates a newrelic.js file",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "homepage": "https://github.com/andrewkeig/grunt-newrelic",
   "author": {
     "name": "Andrew Keig",
