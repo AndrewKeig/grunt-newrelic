@@ -1,7 +1,7 @@
 grunt-newrelic
 ==============
 
-grunt-newrelic will generate a newrelic.js file and add it to the route of your project;
+grunt-newrelic will generate a newrelic.js file and add it to the root of your project;
 with a license key, app_name and logging level pulled from a config file.
 
 
